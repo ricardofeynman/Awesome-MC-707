@@ -22,14 +22,6 @@ https://drolez.com/blog/music/roland-mc-707-midi-effects.php
 
 
 
-# ;)
-
-https://github.com/keijiro/Grubo
-
-https://github.com/keijiro/Khoreo
-
-
-
 # :(
 
 https://github.com/asutherland/sysex-mapatron
@@ -37,3 +29,11 @@ https://github.com/asutherland/sysex-mapatron
 https://github.com/DrKnackerator/Roland-ZenCore-file-format
 
 https://unrelated-domainname.com/zeninspector/
+
+
+
+# ;)
+
+https://github.com/keijiro/Grubo
+
+https://github.com/keijiro/Khoreo
