@@ -6,7 +6,7 @@ https://github.com/crolando/mc707cheatsheet
 
 https://github.com/NLxAROSA/mc101cheatsheet
 
-"Cheat sheet/quick guide of the Roland MC-101 Groovebox " This kind soul inspired crlando's 707 cheatsheet. Thanks @NLxAROSA
+"Cheat sheet/quick guide of the Roland MC-101 Groovebox " This kind soul inspired crolando's 707 cheatsheet. Thanks @NLxAROSA
 
 https://github.com/cafeTechne/to441
 
