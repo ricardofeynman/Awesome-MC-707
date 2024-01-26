@@ -30,7 +30,7 @@ https://github.com/RowdyVoyeur/midi-tools
 
 https://www.reddit.com/r/MC707/comments/j8m1ff/scatter_sequencing_with_midi_loopback/
 
-Reddit MC707 community. Not very active recently but gems can be found in old posts. Like the post above. Thanks j8m1ff
+Reddit MC707 community. Not very active recently but gems can be found in old posts. Like the post above. Thanks natrixgli
 
 https://www.reddit.com/r/Mc707_Mc101/
 
