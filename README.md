@@ -6,7 +6,7 @@ https://github.com/crolando/mc707cheatsheet
 
 https://github.com/NLxAROSA/mc101cheatsheet
 
-"Cheat sheet/quick guide of the Roland MC-101 Groovebox " This kind soul inspired crolando's 707 cheatsheet. Thanks @NLxAROSA
+"Cheat sheet/quick guide of the Roland MC-101 Groovebox " NLxAROSA inspired crolando's 707 cheatsheet. Thank You @NLxAROSA
 
 https://github.com/cafeTechne/to441
 
@@ -30,7 +30,7 @@ https://github.com/RowdyVoyeur/midi-tools
 
 https://www.reddit.com/r/MC707/comments/j8m1ff/scatter_sequencing_with_midi_loopback/
 
-Reddit MC707 community. Not very active recently but gems can be found in old posts. Like the post above. Thanks natrixgli
+Reddit MC707 community. Not very active recently but gems can be found in old posts. Like the post above. Thank You natrixgli
 
 https://www.reddit.com/r/Mc707_Mc101/
 
@@ -39,6 +39,10 @@ My favourite Reddit 707/101 community. Active and easy to find some sweet tips.
 https://drolez.com/blog/music/roland-mc-707-midi-effects.php
 
 As well as being the author of the free midi pack linked above on the list, you will find some great articles and guides. Thanks again @ldrolez
+
+https://sites.google.com/view/rolandmc101/home
+
+"Roland MC-101 Shortcuts, Tips & Tricks" Lots of great information. Well organised site. Thank You Ricardo S
 
 https://roland-mc707-mc101-editor.jimdofree.com/
 
@@ -74,11 +78,11 @@ Dear Roland really dropped a stinker on us when they prevented this guy's effort
 
 https://github.com/DrKnackerator/Roland-ZenCore-file-format
 
-Empty - forever...? We can only hope.
+Empty - forever...? Hopefully Doc K shares their findings from the zeninspector one day soon.
 
 https://unrelated-domainname.com/zeninspector/
 
-Shut down. Sad times. DrKnackerator we need you!
+Shut down. Sad times!
 
 
 
