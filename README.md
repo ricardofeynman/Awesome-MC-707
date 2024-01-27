@@ -56,6 +56,10 @@ https://www.youtube.com/watch?v=XAwMcZ-toOQ
 
 SH 101 clone how-to with a sweet snippet of BOC at the end. Thank You Digiphex Electronics
 
+https://www.youtube.com/watch?v=-m7Dkapb9Vw&list=PLK_jhSzqWMXm3iIwC8hLb5ppXhOB-wEmh
+
+BIG UMAMI has some great videos on the MC-101. Some tricks applicable to the 707 and even more tips and tricks from the community in the comments. Thank You BIG UMAMI
+
 
 
 # :(
