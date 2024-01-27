@@ -30,11 +30,19 @@ https://github.com/RowdyVoyeur/midi-tools
 
 https://www.reddit.com/r/MC707/comments/j8m1ff/scatter_sequencing_with_midi_loopback/
 
-Reddit MC707 community. Not very active recently but gems can be found in old posts. Like the post above. Thank You natrixgli
+Reddit MC707 community. Not very active but gems can be found in old posts. Like the post above. Thank You natrixgli
 
 https://www.reddit.com/r/Mc707_Mc101/
 
 My favourite Reddit 707/101 community. Active and easy to find some sweet tips.
+
+https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1278871-roland-mc-707-owners-discussion-sound-engine-amp-design-24.html
+
+"Roland MC-707 Owners discussion: Sound Engine & Design" Learn some great tricks, stay abreast of all things MC-707, and all things GEEEAAARRR!!!
+
+https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1277988-roland-mc-707-amp-mc-101-grooveboxes-324.html
+
+"Roland MC-707 & MC-101 Grooveboxes" 324 pages (and growing) of MC related discussion.
 
 https://drolez.com/blog/music/roland-mc-707-midi-effects.php
 
